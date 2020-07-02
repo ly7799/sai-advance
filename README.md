@@ -1,3 +1,10 @@
+# Compilation
+  modify CmakeList.txt  
+  add sdk file 
+  add ./inc
+  add lib/tsingma/ctcsdklib.so 
+
+
 # Overview
    The Switch Abstraction Interface(SAI) defines the API to provide a vendor-independent way of controlling forwarding elements, such as a switching ASIC, an NPU or a software switch in a uniform manner.
 
